@@ -7,6 +7,8 @@ Hii Friends,
           "Dynamic Coding With Amit"
           you can check it 
           
+   This project made by Amit Prajapti (Github : @Isamitprajapati)
+          
 In the programming i create three file which name are
 1.index.html
 2.style.css
